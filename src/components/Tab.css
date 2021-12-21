@@ -1,0 +1,8 @@
+div.tab {
+  border-radius: 7px 7px 0 0;
+
+}
+
+div.tab:hover {
+  background-color: #d39e00 !important;
+}
